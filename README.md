@@ -45,6 +45,10 @@ The script can now be successfully run by simply entering a piece of text into a
 The program has been successfully linked to Google Chrome's UI functions and can now accept highlighted text on web pages to begin queries.
 
 ## Standing Questions
-
+* Should the funding aspect still be a part of this? If we don't find a database with this knowledge, this information may be difficult to come by, especially considering that many of these news sites are likely funded by foreign states.
+* Is this a plug-in or an extension? Is there a difference between the two as far as Chrome is concerned? We should get the vernacular correct.
 
 ## Research
+* [Google's API documentation](https://developers.google.com/custom-search/v1/using_rest)
+* [Wayback Machine's API docs](https://archive.org/help/wayback_api.php)
+* [How to Write a Chrome Extension (plug-in)](https://developer.chrome.com/extensions/getstarted)
