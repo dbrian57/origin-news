@@ -23,7 +23,7 @@ Origin News is a Chrome extension that allows users to highlight a section text 
 
 ## Milestones
 
-### Initial Research is Complete
+### Initial Research is Complete (date completed: )
 We have the majority of knowledge to complete the initial design of the plugin. This knowledge should include:
 
 * The language the extension will be written in
@@ -32,16 +32,16 @@ We have the majority of knowledge to complete the initial design of the plugin. 
 * The tools required to build the extension and maintain our workflow
 * The workflows we will use, i.e. how we intend to contribute code and review it
 
-### Initial Design is Complete
+### Initial Design is Complete (date completed: )
 We have a decent sketch of how each function will work inside the extension and the coding involved to complete that function.
 
-### Successful Programmatic Queries
+### Successful Programmatic Queries (date completed: )
 We have succeeded in writing a set of functions that can access the APIs and return data.
 
-### Successful Script
+### Successful Script (date completed: )
 The script can now be successfully run by simply entering a piece of text into an input field on the command line or other programmatic tool.
 
-### UX Design
+### UX Design (date completed: )
 The program has been successfully linked to Google Chrome's UI functions and can now accept highlighted text on web pages to begin queries.
 
 ## Standing Questions
