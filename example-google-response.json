@@ -1,0 +1,215 @@
+## Turns out Google closed their search API less than two years ago. This JSON was scraped from Google using https://serpapi.com/. I'm unsure though if this is what a Google JSON response actually looks like or if the scraper is organizing their own response.
+
+{
+  "search_metadata": {
+    "id": "5f25aa2c814a870f7939960c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7399d9f39f2b5eb9/5f25aa2c814a870f7939960c.json",
+    "created_at": "2020-08-01 17:45:16 UTC",
+    "processed_at": "2020-08-01 17:45:16 UTC",
+    "google_url": "https://www.google.com/search?q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&oq=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/7399d9f39f2b5eb9/5f25aa2c814a870f7939960c.html",
+    "total_time_taken": 0.97
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"Trump’s wall costs less than the Obamacare website\"",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 5320,
+    "time_taken_displayed": 0.44,
+    "query_displayed": "\"Trump’s wall costs less than the Obamacare website\""
+  },
+  "related_questions": [
+    {
+      "question": "How much would Trump's border wall cost?",
+      "snippet": "In February 2017, Reuters reported that an internal report by the Department of Homeland Security estimated that Trump's proposed border wall would cost $21.6 billion and take 3.5 years to build.",
+      "title": "Trump wall - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Trump_wall",
+      "displayed_link": "en.wikipedia.org › wiki › Trump_wall"
+    },
+    {
+      "question": "Why did Trump repeal Obamacare?",
+      "snippet": "On March 6, 2017, House Republicans announced their replacement for the ACA, the American Health Care Act. The bill was withdrawn on March 24, 2017 after it was certain that the House would fail to garner enough votes to pass it. The result was in-fighting within the Republican Party.",
+      "title": "Efforts to repeal the Patient Protection and Affordable Care Act ...",
+      "link": "https://en.wikipedia.org/wiki/Efforts_to_repeal_the_Patient_Protection_and_Affordable_Care_Act",
+      "displayed_link": "en.wikipedia.org › wiki › Efforts_to_repeal_the_Patient_..."
+    },
+    {
+      "question": "When was the first border wall built?",
+      "snippet": "The first barrier built by the US was between 1909-1911, the first barrier built by Mexico was likely in 1918, and barriers were extended in the 1920s and 1940s. US President George H. W. Bush approved the initial 14 miles of fencing along the San Diego–Tijuana border.",
+      "title": "Mexico–United States barrier - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Mexico%E2%80%93United_States_barrier",
+      "displayed_link": "en.wikipedia.org › wiki"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Will Trump's border wall cost less than Obamacare ... - PolitiFact",
+      "link": "https://www.politifact.com/factchecks/2019/mar/29/facebook-posts/will-trumps-border-wall-cost-less-obamacare-websit/",
+      "displayed_link": "www.politifact.com › factchecks › mar › facebook-posts",
+      "thumbnail": null,
+      "rich_snippet": {
+        "bottom": {
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:oZ3GInCP72oJ:https://www.politifact.com/factchecks/2019/mar/29/facebook-posts/will-trumps-border-wall-cost-less-obamacare-websit/+&cd=1&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Eric Trump's Four-Pinocchio claim that the Obamacare ...",
+      "link": "https://www.washingtonpost.com/politics/2019/09/16/eric-trumps-four-pinocchio-claim-that-obamacare-website-cost-more-than-trumps-border-barrier/",
+      "displayed_link": "www.washingtonpost.com › politics › 2019/09/16 › eri...",
+      "thumbnail": null,
+      "rich_snippet": {
+        "bottom": {
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hkxfdueB3iYJ:https://www.washingtonpost.com/politics/2019/09/16/eric-trumps-four-pinocchio-claim-that-obamacare-website-cost-more-than-trumps-border-barrier/+&cd=2&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "WaPo gives Eric Trump 4 Pinocchios after ObamaCare ...",
+      "link": "https://thehill.com/homenews/news/461535-fact-checker-gives-eric-trump-4-pinocchios-for-obamacare-website-claim",
+      "displayed_link": "thehill.com › homenews › news › 461535-fact-checker...",
+      "thumbnail": null,
+      "date": "Sep 16, 2019",
+      "snippet": "It included a picture of Allen and the quote, “President Trump's Wall costs less than the Obamacare website. Let that sink in, America.”.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uEWwaY5phI4J:https://thehill.com/homenews/news/461535-fact-checker-gives-eric-trump-4-pinocchios-for-obamacare-website-claim+&cd=3&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Eric Trump's Four-Pinocchio claim that the Obamacare ...",
+      "link": "https://www.seattletimes.com/nation-world/nation-politics/eric-trumps-four-pinocchio-claim-that-the-obamacare-website-cost-more-than-trumps-border-barrier/",
+      "displayed_link": "www.seattletimes.com › nation-world › nation-politics › e...",
+      "thumbnail": null,
+      "date": "Sep 16, 2019",
+      "snippet": "“President Trump's wall costs less than the Obamacare website. Let that sink in, America.” – Quote attributed to comedian Tim Allen in an ..."
+    },
+    {
+      "position": 5,
+      "title": "“President Trump's wall costs less than the Obamacare ...",
+      "link": "https://m.facebook.com/DFL3CD/posts/2458232304457594",
+      "displayed_link": "m.facebook.com › posts",
+      "thumbnail": null,
+      "snippet": "President Trump's wall costs less than the Obamacare website. Let that sink in, America.” — Quote attributed to comedian Tim Allen in an Instagram post...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:X-y0MnvPT8YJ:https://m.facebook.com/DFL3CD/posts/2458232304457594+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Facts Matter: Quote about cost of border wall didn't come from ...",
+      "link": "https://www.dailyherald.com/news/20190921/facts-matter-quote-about-cost-of-border-wall-didnt-come-from-actor-tim-allen",
+      "displayed_link": "www.dailyherald.com › news › facts-matter-quote-about-...",
+      "thumbnail": null,
+      "date": "Sep 21, 2019",
+      "snippet": "\"President Trump's wall costs less than the Obamacare website. Let that sink in, America,\" Eric Trump posted Sept. 10 on Instagram. His post ..."
+    },
+    {
+      "position": 7,
+      "title": "Tim Allen Meme: 'Obamacare Website Costs More Than ...",
+      "link": "https://www.truthorfiction.com/tim-allen-meme-obamacare-website-costs-more-than-trumps-wall/",
+      "displayed_link": "www.truthorfiction.com › Fact Checks › Disinformation",
+      "thumbnail": null,
+      "date": "Sep 16, 2019",
+      "snippet": "President Trump's wall costs less than the Obamacare website. Let that sink in, America. The meme involved two separate and partly-distinct ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Ypo_vwA1_TgJ:https://www.truthorfiction.com/tim-allen-meme-obamacare-website-costs-more-than-trumps-wall/+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "\"Tim Allen quote Trump's wall costs less than the Obamacare ...",
+      "link": "https://propaganda.mediaeducationlab.com/rate/tim-allen-quote-trumps-wall-costs-less-obamacare-website",
+      "displayed_link": "propaganda.mediaeducationlab.com › rate › tim-allen-q...",
+      "thumbnail": null,
+      "snippet": "\"Tim Allen quote Trump's wall costs less than the Obamacare website\". Technique Used. Respond to Audience Needs. JOIN THE DISCUSSION. avatar ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rR3jRP9bSocJ:https://propaganda.mediaeducationlab.com/rate/tim-allen-quote-trumps-wall-costs-less-obamacare-website+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "No, the Border Wall Won't Cost Less Than Obamacare's ...",
+      "link": "https://www.newsy.com/stories/no-the-border-wall-won-t-cost-less-than-obamacare-s-website/",
+      "displayed_link": "www.newsy.com › stories › no-the-border-wall-won-t-c...",
+      "thumbnail": null,
+      "date": "Apr 4, 2019",
+      "snippet": "It said, \"President Trump's wall costs less than the ObamaCare website.\" If that sounds surprising to you, it should — because it's just plain ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:RO9s7I3PSyEJ:https://www.newsy.com/stories/no-the-border-wall-won-t-cost-less-than-obamacare-s-website/+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "8. \"Tim Allen quote Trump's wall costs less than the ...",
+      "link": "https://www.businessinsider.in/the-10-most-viewed-fake-news-stories-on-facebook-in-2019-were-just-revealed-in-a-new-report-take-a-look/8-tim-allen-quote-trumps-wall-costs-less-than-the-obamacare-website/slideshow/71943703.cms",
+      "displayed_link": "www.businessinsider.in › slideshow",
+      "thumbnail": null,
+      "snippet": "\"Tim Allen quote Trump's wall costs less than the Obamacare website\". 8. \"Tim Allen quote Trump's wall costs less than the Obamacare website\". 3/10 ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:16thZ1W1Ay0J:https://www.businessinsider.in/the-10-most-viewed-fake-news-stories-on-facebook-in-2019-were-just-revealed-in-a-new-report-take-a-look/8-tim-allen-quote-trumps-wall-costs-less-than-the-obamacare-website/slideshow/71943703.cms+&cd=16&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "cost of trump's wall",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=cost+of+trump%27s+wall&sa=X&ved=2ahUKEwj4oLC_x_rqAhVEK80KHZPqAnoQ1QIoAHoECAsQAQ"
+    },
+    {
+      "query": "obamacare website cost fact check",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=obamacare+website+cost+fact+check&sa=X&ved=2ahUKEwj4oLC_x_rqAhVEK80KHZPqAnoQ1QIoAXoECAsQAg"
+    },
+    {
+      "query": "things that cost more than the wall",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=things+that+cost+more+than+the+wall&sa=X&ved=2ahUKEwj4oLC_x_rqAhVEK80KHZPqAnoQ1QIoAnoECAsQAw"
+    },
+    {
+      "query": "how much money did obama spend on the wall",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=how+much+money+did+obama+spend+on+the+wall&sa=X&ved=2ahUKEwj4oLC_x_rqAhVEK80KHZPqAnoQ1QIoA3oECAsQBA"
+    },
+    {
+      "query": "russia donated $145,600,000 to the clinton foundation",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=russia+donated+%24145,600,000+to+the+clinton+foundation&sa=X&ved=2ahUKEwj4oLC_x_rqAhVEK80KHZPqAnoQ1QIoBHoECAsQBQ"
+    },
+    {
+      "query": "obamacare cost",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=obamacare+cost&sa=X&ved=2ahUKEwj4oLC_x_rqAhVEK80KHZPqAnoQ1QIoBXoECAsQBg"
+    },
+    {
+      "query": "tim allen on trump",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=tim+allen+on+trump&sa=X&ved=2ahUKEwj4oLC_x_rqAhVEK80KHZPqAnoQ1QIoBnoECAsQBw"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&hl=en&gl=us&ei=LKolX_jaOMTWtAaT1YvQBw&start=10&sa=N&ved=2ahUKEwj4oLC_x_rqAhVEK80KHZPqAnoQ8NMDegQIDRA-",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&hl=en&gl=us&ei=LKolX_jaOMTWtAaT1YvQBw&start=10&sa=N&ved=2ahUKEwj4oLC_x_rqAhVEK80KHZPqAnoQ8tMDegQIDRAs",
+      "3": "https://www.google.com/search?q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&hl=en&gl=us&ei=LKolX_jaOMTWtAaT1YvQBw&start=20&sa=N&ved=2ahUKEwj4oLC_x_rqAhVEK80KHZPqAnoQ8tMDegQIDRAu",
+      "4": "https://www.google.com/search?q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&hl=en&gl=us&ei=LKolX_jaOMTWtAaT1YvQBw&start=30&sa=N&ved=2ahUKEwj4oLC_x_rqAhVEK80KHZPqAnoQ8tMDegQIDRAw",
+      "5": "https://www.google.com/search?q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&hl=en&gl=us&ei=LKolX_jaOMTWtAaT1YvQBw&start=40&sa=N&ved=2ahUKEwj4oLC_x_rqAhVEK80KHZPqAnoQ8tMDegQIDRAy",
+      "6": "https://www.google.com/search?q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&hl=en&gl=us&ei=LKolX_jaOMTWtAaT1YvQBw&start=50&sa=N&ved=2ahUKEwj4oLC_x_rqAhVEK80KHZPqAnoQ8tMDegQIDRA0",
+      "7": "https://www.google.com/search?q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&hl=en&gl=us&ei=LKolX_jaOMTWtAaT1YvQBw&start=60&sa=N&ved=2ahUKEwj4oLC_x_rqAhVEK80KHZPqAnoQ8tMDegQIDRA2",
+      "8": "https://www.google.com/search?q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&hl=en&gl=us&ei=LKolX_jaOMTWtAaT1YvQBw&start=70&sa=N&ved=2ahUKEwj4oLC_x_rqAhVEK80KHZPqAnoQ8tMDegQIDRA4",
+      "9": "https://www.google.com/search?q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&hl=en&gl=us&ei=LKolX_jaOMTWtAaT1YvQBw&start=80&sa=N&ved=2ahUKEwj4oLC_x_rqAhVEK80KHZPqAnoQ8tMDegQIDRA6",
+      "10": "https://www.google.com/search?q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&hl=en&gl=us&ei=LKolX_jaOMTWtAaT1YvQBw&start=90&sa=N&ved=2ahUKEwj4oLC_x_rqAhVEK80KHZPqAnoQ8tMDegQIDRA8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=%22Trump%E2%80%99s+wall+costs+less+than+the+Obamacare+website%22&start=90"
+    }
+  }
+}
