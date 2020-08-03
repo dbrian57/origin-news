@@ -21,7 +21,7 @@ Origin News is a Chrome extension that allows users to highlight a section text 
 7. The extension then records prints the domain name into a second API request and sends a GET request to an as yet determined database to gather information about the website's owners/funders.
 8. The extension then combines the results of the funding database, origin URL, post date, and other metadata, and returns the information to the user.
 
-## Technical description
+### Technical description
 
 User highlights text and activates extension. Highlighted text is used to initialize a new object, **searchText.** **searchText** is initialized with properties that are blank right now: *quoteText*, *fundingSource*, *origin URL*, *post date*, whatever other metadata we need.
 
