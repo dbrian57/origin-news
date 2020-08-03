@@ -19,7 +19,19 @@ Origin News is a Chrome extension that allows users to highlight a section text 
 5. The extension receives the results as a series of JSON objects from the Google Search API.
 6. The extension then scans the results for the results for the earliest date.
 7. The extension then records prints the domain name into a second API request and sends a GET request to an as yet determined database to gather information about the website's owners/funders.
-7. The extension then combines the results of the funding database, origin URL, post date, and other metadata, and returns the information to the user.
+8. The extension then combines the results of the funding database, origin URL, post date, and other metadata, and returns the information to the user.
+
+## Technical description
+
+User highlights text and activates extension. Highlighted text is used to initialize a new object, **searchText.** **searchText** is initialized with properties that are blank right now: *quoteText*, *fundingSource*, *origin URL*, *post date*, whatever other metadata we need.
+
+Extension runs **searchText.google_search()** function. 
+
+**google_search()** function retrieves JSON objects from Google search, running the Google search on **searchText.quoteText.** The function creates some kind of temporary data structure, **search_results_list**, with all the JSON entries loaded into it. The function sorts **search_results_list** by date and gets the earliest one. It populates all available fields in the **searchText** object with JSON data. 
+
+Extension then runs **searchText.database_search(_pubName_)**, which searches our as yet undetermined database with publication names, finds the funding data, and populates **fundingSource** in the **searchText** object.
+
+Extension then outputs all of the **searchText** fields into a TBD user interface, allowing the user to see all the data.
 
 ## Milestones
 
